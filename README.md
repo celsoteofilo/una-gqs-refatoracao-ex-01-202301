@@ -49,7 +49,7 @@ que faça as seguintes perguntas para as pessoas:
 - Cartão Vacinal em Dia - "NAO" : ***10***
 - Teve Sintomas Recentes - "SIM": ***30***
 - Teve contato com pessoa infectada - "SIM": ***30***
-- Retornando de viagem - "SIM": ***+30%***
+- Retornando de viagem - "SIM": ***30***
 
 O programa deverá imprimir no final uma orientação para apoiar no direcionamento de todas as pessoas.
 A lógica para orientação final, será baseada na porcentagem de uma pessoa estar infectada, sendo:
